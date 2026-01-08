@@ -24,7 +24,7 @@
 </td>
 <td width="40%">
 
-<img src="https://github.com/siddhisunil17/siddhisunil17/blob/main/your-image.png?raw=true" width="100%">
+<img src="https://github.com/siddhisunil17/siddhisunil17/blob/main/carbon (1).png?raw=true" width="100%">
 
 </td>
 </tr>
