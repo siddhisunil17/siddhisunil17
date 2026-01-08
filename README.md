@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td valign="top" width="40%">
-      <img src="https://github.com/siddhisunil17/siddhisunil17/blob/main/carbon.png?raw=true" width="100%" alt="Code Snippet" />
+      <img src="https://github.com/siddhisunil17/siddhisunil17/blob/main/carbon (1).png?raw=true" width="100%" alt="Code Snippet" />
     </td>
   </tr>
 </table>
